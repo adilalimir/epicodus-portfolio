@@ -4,12 +4,12 @@
 
 ## Technologies Used: 
 
-*HTML
-*CSS
-*Git
-*Github
-*VS Code
-*CLI 
+* HTML
+* CSS
+* Git
+* Github
+* VS Code
+* CLI 
 
 #### Description: 
 The webpage is a portfolio that demonstrates HTML and CSS fleuncy by employing a range of HTML tags 
