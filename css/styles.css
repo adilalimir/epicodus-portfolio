@@ -5,8 +5,11 @@
 }
 
 .page {
-  width: 1200px;
+  width: 900px;
   margin: 0 auto;
+  border: 1px solid black;
+  background-color: whitesmoke;
+  overflow: hidden;
 }
 
 .header {
@@ -15,12 +18,28 @@
   display: block;
   text-align: center;
   margin: 0 auto;
-  border: 3px solid sandybrown;
-  width: 700px;
+  border: 1px solid sandybrown;
+  width: 900px;
   padding: 10px 20px;
   line-height: 1.5;
 }
 
 .trivia {
-  
+  width: 200px;
+  height: 400px;
+  background-color: lightseagreen;
+  float: left;
+}
+
+.gallery {
+  width: 650px;
+  height: 500px;
+  background-color: beige;
+  float: left;
+}
+
+.projects {
+  height: 200px;
+  background-color: aquamarine;
+  clear: both;
 }
