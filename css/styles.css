@@ -4,3 +4,7 @@
   box-sizing: border-box;
 }
 
+.header {
+  height: 100px;
+  background-color: bisque;
+}
