@@ -22,7 +22,8 @@ as well as a custom-made stylesheet that makes use of typography styles, the box
 #### Clone this repository locally using Gitbash: 
 * On Github, navigate to the main page of the repository you wish to clone. 
 * Above the list of files, click "Code", this will copy the URL to your clipboard.
-* To clone the repository using HTTPS, under "Clone with HTTPS", click the small clipboard icon. Use the same process for cloning with SSH key or Github CLI.
+* To clone the repository using HTTPS, under "Clone with HTTPS", click the small clipboard icon. 
+* Use the same process for cloning with SSH key or Github CLI.
 * Open gitbash and change the current working directory to the location where you want the cloned directory.
 * Type "git clone" and then paste the URL you copied to the clipboard earlier.
 * Press "enter" to create your local clone. 
