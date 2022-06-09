@@ -13,6 +13,24 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.background {
+  font-weight: bolder;
+  font-style: oblique;
+  text-decoration: underline;
+  display: block;
+  margin-bottom: 15px;
+}
+
+.education,
+.work,
+.personal {
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 17px;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
 .container {
   border: 1px solid whitesmoke;
   background-color: whitesmoke;
@@ -51,6 +69,18 @@ body {
   text-align: center;
   display: block;
   padding-top: 20px;
+}
+
+.trivia ul {
+  margin-left: 60px;
+  margin-top: 20px;
+}
+
+.trivia ol {
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  line-height: 1.5;
 }
 
 .gallery {
