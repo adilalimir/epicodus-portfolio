@@ -29,7 +29,7 @@
 .trivia {
   width: 200px;
   height: 500px;
-  background-color: lightseagreen;
+  background-color:wheat;
   float: left;
 }
 
@@ -42,6 +42,17 @@
 
 .projects {
   height: 200px;
-  background-color: aquamarine;
+  background-color:blanchedalmond;
+  border: 5px solid azure;
   clear: both;
+  overflow: hidden;
+}
+
+.column { 
+  float: left;
+  width: 31%;
+  height: 160px;
+  background-color:burlywood;
+  border: 2.5px solid beige;
+  margin: 20px 1.15%;
 }
