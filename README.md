@@ -16,7 +16,7 @@ The webpage is a portfolio that demonstrates HTML and CSS fleuncy by employing a
 as well as a custom-made stylesheet that makes use of typography styles, the box model and floats, to name a few. 
 
 ## To view on Github Pages: 
-* 
+* https://adilalimir.github.io/epicodus-portfolio/
 
 ## Application Setup Instructions
 #### Clone this repository locally using Gitbash: 
