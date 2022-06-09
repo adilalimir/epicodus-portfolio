@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+.page {
+  width: 1200px;
+  margin: 0 auto;
+}
+
 .header {
   height: 100px;
   background-color: bisque;
@@ -14,4 +19,8 @@
   width: 700px;
   padding: 10px 20px;
   line-height: 1.5;
+}
+
+.trivia {
+  
 }
