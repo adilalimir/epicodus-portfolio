@@ -4,12 +4,15 @@
   box-sizing: border-box;
 }
 
+.container {
+  border: 1px solid whitesmoke;
+  background-color: whitesmoke;
+  overflow: hidden;
+}
+
 .page {
   width: 1200px;
   margin: 0 auto;
-  border: 1px solid sandybrown;
-  background-color: whitesmoke;
-  overflow: hidden;
 }
 
 .header {
@@ -25,7 +28,7 @@
 
 .trivia {
   width: 200px;
-  height: 400px;
+  height: 500px;
   background-color: lightseagreen;
   float: left;
 }
