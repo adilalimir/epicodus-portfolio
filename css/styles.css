@@ -5,9 +5,9 @@
 }
 
 .page {
-  width: 900px;
+  width: 1200px;
   margin: 0 auto;
-  border: 1px solid black;
+  border: 1px solid sandybrown;
   background-color: whitesmoke;
   overflow: hidden;
 }
@@ -19,7 +19,6 @@
   text-align: center;
   margin: 0 auto;
   border: 1px solid sandybrown;
-  width: 900px;
   padding: 10px 20px;
   line-height: 1.5;
 }
