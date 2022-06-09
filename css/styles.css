@@ -4,6 +4,15 @@
   box-sizing: border-box;
 }
 
+em, strong {
+  font-style: normal;
+}
+
+body {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .container {
   border: 1px solid whitesmoke;
   background-color: whitesmoke;
@@ -22,7 +31,7 @@
   text-align: center;
   margin: 0 auto;
   border: 1px solid sandybrown;
-  padding: 10px 20px;
+  padding: 15px 20px;
   line-height: 1.5;
 }
 
@@ -31,6 +40,17 @@
   height: 500px;
   background-color:wheat;
   float: left;
+  border: 1px solid darkkhaki;
+}
+
+.trivia-about {
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 24px;
+  color:teal;
+  text-align: center;
+  display: block;
+  padding-top: 20px;
 }
 
 .gallery {
@@ -39,6 +59,7 @@
   background-color: beige;
   float: left;
   padding: 25px;
+  border: 2px solid darkkhaki;
 }
 
 .gallery p {
@@ -51,6 +72,7 @@
   height: 350px;
   margin-bottom: 20px;
   margin-right: 20px;
+  border: 2px solid darkkhaki;
 }
 
 .projects {
@@ -78,4 +100,25 @@
 .repo-details {
   margin: 10px;
   overflow: hidden;
+}
+
+a { 
+color: crimson;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+text-decoration: none;
+color: coral;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
 }
